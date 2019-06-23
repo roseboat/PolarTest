@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Polar.Droid</string>
+    <string name="action_settings">Settings</string>
+    
+        <string-array name="news_array">
+        <item>BBC</item>
+        <item>The Sun</item>
+        <item>The New York Times</item>
+        <item>The Independent</item>
+        <item>Fox News</item>
+        <item>The Telegraph</item>   
+       
+    </string-array>
+</resources>
